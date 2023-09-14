@@ -1,1 +1,1 @@
-Working on score attack skull game.
+Simple G3D Space Harrior scrolling hallway demo with lighting.
